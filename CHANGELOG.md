@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.0](https://github.com/dwmkerr/inquirer-prompts/compare/v0.1.0...v0.2.0) (2026-09-10)
+
+
+### Features
+
+* **build:** update package name ([eab332a](https://github.com/dwmkerr/inquirer-prompts/commit/eab332a550da24a436ab5bc399ddc75a10ef59e3))
+* **choice.ts:** add Choice type definition ([e335a2e](https://github.com/dwmkerr/inquirer-prompts/commit/e335a2efffb58f9b75044125313d53cbd9908716))
+
 ## 0.1.0 (2025-03-11)
 
 
