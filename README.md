@@ -1,6 +1,6 @@
 # inquirer-prompts
 
-[![cicd](https://github.com/dwmkerr/inquirer-advanced-input-prompt/actions/workflows/cicd.yaml/badge.svg)](https://github.com/dwmkerr/inquirer-advanced-input-prompt/actions/workflows/cicd.yaml) ![npm (scoped)](https://img.shields.io/npm/v/%40dwmkerr/inquirer-advanced-input-prompt) [![codecov](https://codecov.io/gh/dwmkerr/inquirer-advanced-input-prompt/graph/badge.svg?token=oHFSLfOHGd)](https://codecov.io/gh/dwmkerr/inquirer-advanced-input-prompt)
+[![cicd](https://github.com/dwmkerr/inquirer-advanced-input-prompt/actions/workflows/cicd.yaml/badge.svg)](https://github.com/dwmkerr/inquirer-advanced-input-prompt/actions/workflows/cicd.yaml) ![npm (scoped)](https://img.shields.io/npm/v/%40dwmkerr/inquirer-advanced-input-prompt) [![codecov](https://codecov.io/gh/dwmkerr/inquirer-advanced-input-prompt/graph/badge.svg?token=oHFSLfOHGd)](https://codecov.io/gh/dwmkerr/inquirer-advanced-input-prompt) [![Donate](https://img.shields.io/badge/thanks-donate-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/dwmkerr/sponsorships?frequency=one-time&amount=5)
 
 Additional prompts for [Inquirer](https://github.com/SBoudrias/Inquirer.js/) that provide some advanced features.
 
